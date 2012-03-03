@@ -1,0 +1,1 @@
+This is playground for refactoring awful examples of design patterns provided by pluralsight.
